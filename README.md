@@ -1,7 +1,7 @@
 <h1 align="center">howdy 👋, i'm adam</h1>
 <h3 align="center">A full-stack developer with a passion for web development</h3>
 
-- 🌱 i’m currently learning **Node.JS, C#**
+- 🌱 i’m currently learning Sveltekit and PHP!
 
 - 💬 ask me about **anything to do with React or JavaScript!**
 
