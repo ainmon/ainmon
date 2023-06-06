@@ -5,8 +5,6 @@
 
 - 💬 ask me about **anything to do with React or JavaScript!**
 
-- 📫 how to reach me **inmon.adam@yahoo.com**
-
 - ⚡ fun fact **i invest way too much time into league of legends**
 
 <h3 align="left">Connect with me:</h3>
