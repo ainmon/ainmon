@@ -1,9 +1,9 @@
 <h1 align="center">howdy 👋, i'm adam</h1>
 <h3 align="center">A full-stack developer with a passion for web development</h3>
 
-- 🌱 i’m currently learning Sveltekit and PHP!
+- 🌱 i’m currently learning Pocketbase and Go!
 
-- 💬 ask me about **anything to do with React or JavaScript!**
+- 💬 ask me about **anything to do with Sveltekit or JavaScript!**
 
 - ⚡ fun fact **i invest way too much time into league of legends**
 
